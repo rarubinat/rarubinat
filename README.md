@@ -1,7 +1,17 @@
 ## Hello world ##
 
-### I'm Alba from Madrid, Spain 🇪🇸, Frontend Mid Developer and UI enthusiast. 
-Currently in love ❤️ with React ⚛️ and all its ecosystem.
+### I'm Alba from Madrid, Spain 🇪🇸
+
+❗️Actualmente en proceso de transición profesional 🔃
+
+💼En búsqueda de un empleo como Full Stack 💻 & Diseñador UX/UI 🎨, donde poder crecer profesionalmente y aportar todas mis capacidades, pero sobretodo, mis ganas y motivación por desarrollarme profesionalmente🔝
+
+Algunas de las muchas tecnologías que he aprendido, son:
+📌 JavaScript, TypeScript, HTML5, CSS3, Tailwind, Bootstrap, Material Design, Angular, Ionic, Node, SQL, MondoDB, GitHub.
+📌 Figma, Sketch, Invision, Zeplin, Adobe XD.
+
+✅Todo ello dentro de la filosofía Agile & metodología Scrum.
+
 
 ### What i do
 
