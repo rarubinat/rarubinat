@@ -8,7 +8,7 @@
 💼En búsqueda de un empleo como Full Stack 💻 & Diseñador UX/UI 🎨, donde poder crecer profesionalmente y aportar todas mis capacidades, pero sobretodo, mis ganas y motivación por desarrollarme profesionalmente🔝
 
 Algunas de las muchas tecnologías que he aprendido, son:
-📌 JavaScript, TypeScript, HTML5, CSS3, Tailwind, Bootstrap, Material Design, Angular, Ionic, Node, SQL, MondoDB, GitHub.
+📌 JavaScript, TypeScript, Processing, HTML5, CSS3, Bootstrap, Material Design, Angular, NodeJS, SQL, MondoDB, GitHub.
 📌 Figma, Sketch, Invision, Zeplin, Adobe XD.
 
 ✅Todo ello dentro de la filosofía Agile & metodología Scrum.
@@ -30,6 +30,6 @@ Algunas de las muchas tecnologías que he aprendido, son:
 
 ### Contacto
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arubinat/")](http://www.linkedin.com/in/arubinat/)
-
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/rubinatart/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rarubinat@gmail.com)
 ![Snake](https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg)
