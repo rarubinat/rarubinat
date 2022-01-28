@@ -30,3 +30,5 @@ Algunas de las muchas tecnologías que he aprendido, son:
 ### Contacto
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arubinat/")](http://www.linkedin.com/in/arubinat/)
+
+[![Snake](https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg)
