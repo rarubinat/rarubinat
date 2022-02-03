@@ -26,7 +26,7 @@ Algunas de las muchas tecnologías que he aprendido, son:<br>
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rarubinat&layout=compact&langs_count=7&theme=dracula)
 
 ### Contacto
 
