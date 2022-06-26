@@ -14,7 +14,7 @@ Algunas de las muchas tecnologías que he aprendido, son:<br>
 ✅Todo ello dentro de la filosofía Agile & metodología Scrum.
 
 
-### Studies
+### More about me
 
 - Master's Degree in Web Application Development.
 - Degree in Video Game Development.
