@@ -3,9 +3,9 @@
 
 ### I'm Alba from Madrid, Spain 🇪🇸
 
-❗️Actualmente en proceso de transición profesional 🔃
+❗️Actualmente en proceso de transición profesional
 
-💼En búsqueda de un empleo como Full Stack 💻 & Diseñador UX/UI 🎨, donde poder crecer profesionalmente y aportar todas mis capacidades, pero sobretodo, mis ganas y motivación por desarrollarme profesionalmente🔝
+ 💻Creciendo como Full Stack & Diseñador UX/UI, aportando todas mis capacidades, pero sobretodo, mis ganas y motivación por desarrollarme profesionalmente 
 
 Algunas de las muchas tecnologías que he aprendido, son:<br>
 📌 JavaScript, TypeScript, Processing, Arduino, HTML5, CSS3, Bootstrap, Material Design, Angular, React, NodeJS, SQL, GitHub.<br>
