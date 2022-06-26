@@ -14,9 +14,11 @@ Algunas de las muchas tecnologías que he aprendido, son:<br>
 ✅Todo ello dentro de la filosofía Agile & metodología Scrum.
 
 
-### What i do
+### Studies
 
-- 👋 Hi, I’m Alba and I am studying a Master's Degree in Web Application Development.
+- Master's Degree in Web Application Development.
+- Degree in Video Game Development.
+- Certificate B2 in English.
 - 🌱 I’m currently learning TypeScript, React, Next.js, Jest and UX/UI.
 - :chart_with_upwards_trend: I'm looking for collaboration in product design and modern web applications.
 - :speech_balloon: Ask me about `frontend`,`css`, `sass`, `js`,`vue`, `react`.
