@@ -32,6 +32,5 @@ Algunas de las muchas tecnologías que he aprendido, son:<br>
 
 ### Contacto
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/rubinatart/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rarubinat@gmail.com)
 ![Snake](https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg)
