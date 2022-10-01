@@ -8,7 +8,7 @@
  💻Creciendo como Full Stack & Diseñador UX/UI, aportando todas mis capacidades, pero sobretodo, mis ganas y motivación por desarrollarme profesionalmente 
 
 Algunas de las muchas tecnologías que he aprendido, son:<br>
-📌 JavaScript, TypeScript, Processing, Arduino, HTML5, CSS3, Bootstrap, Material Design, Angular, React, NodeJS, SQL, GitHub.<br>
+📌 JavaScript, TypeScript, Processing, Arduino, HTML5, CSS3, Bootstrap, Material Design, Angular, React, NodeJS, Php, GitHub.<br>
 📌 Figma, Sketch, Invision, Adobe Illustrator, Photoshop, Premiere, Blender, Audotesk, Adobe XD.
 
 ✅Todo ello dentro de la filosofía Agile & metodología Scrum.
