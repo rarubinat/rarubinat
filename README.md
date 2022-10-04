@@ -25,6 +25,7 @@ Algunas de las muchas tecnologías que he aprendido, son:<br>
 ### Projects
 - https://rarubinat.github.io/caloriescount-javascript/
 - https://rarubinat.github.io/simon-javascript/
+https://rarubinat.github.io/project2-html/
 
 
 ### Some of my skills are :woman_technologist:
