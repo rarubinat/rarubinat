@@ -20,7 +20,7 @@ Algunas de las muchas tecnologías que he aprendido, son:<br>
 - I’m currently learning TypeScript, React, Next.js, AngularJS and Laravel.
 - :chart_with_upwards_trend: I'm looking for collaboration in product design and modern web applications.
 - :speech_balloon: Ask me about `frontend`:`css`, `sass`, `js`,`vue`, `react`, `parcel`, `tailwind`, `angular`.
-- :speech_balloon: Ask me about `backend`:`php`, `laravel`.
+- :speech_balloon: Ask me about `backend`:`php`, `laragon`, `sql`, `laravel`.
 
 
 ### Projects
