@@ -19,8 +19,8 @@ Algunas de las muchas tecnologías que he aprendido, son:<br>
 - Certificate B2 in English.
 - I’m currently learning TypeScript, React, Next.js, AngularJS and Laravel.
 - :chart_with_upwards_trend: I'm looking for collaboration in product design and modern web applications.
-- :speech_balloon: Ask me about `frontend`:`css`, `sass`, `js`,`vue`, `react`, `parcel`, `tailwind`, `angular`.
-- :speech_balloon: Ask me about `backend`:`php`, `laragon`, `sql`, `laravel`.
+- :speech_balloon: Ask me about `frontend`:`css`, `sass`, `js`,`vue`, `react`, `parcel`, `tailwind`, `angular`, `AOS`...
+- :speech_balloon: Ask me about `backend`:`php`, `laragon`, `sql`, `laravel`, `firebase`...
 
 
 ### Projects
