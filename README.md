@@ -2,9 +2,9 @@
 ![Visiteds Badge](https://komarev.com/ghpvc/?username=rarubinat&label=Profile%20views&color=0e75b6&style=flat)
 
 ### I'm Alba from Madrid, Spain 🇪🇸
-💻Creciendo como Full Stack & Diseñador UX/UI, aportando todas mis capacidades, pero sobretodo, mis ganas y motivación por desarrollarme profesionalmente. 
-📌 I’m currently learning TypeScript, React, NextJS, AngularJS and Laravel.
-✅Todo ello dentro de la filosofía Agile & metodología Scrum.
+- 💻Creciendo como Full Stack & Diseñador UX/UI, aportando todas mis capacidades, pero sobretodo, mis ganas y motivación por desarrollarme profesionalmente. 
+- 📌 I’m currently learning TypeScript, React, NextJS, AngularJS and Laravel.
+- ✅Todo ello dentro de la filosofía Agile & metodología Scrum.
 
 
 ### More about me
