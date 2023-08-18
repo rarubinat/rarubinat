@@ -25,7 +25,7 @@ Algunas de las muchas tecnologías que he aprendido, son:<br>
 
 ### Projects
 - https://cinereact-380f3.web.app/
-- https://rarubinat.github.io/photography/
+- https://rarubinat.github.io/portfolio-img/
 - https://pupies-50067.firebaseapp.com/
 - https://rarubinat.github.io/caloriescount-javascript/
 - https://rarubinat.github.io/simon-javascript/
