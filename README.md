@@ -2,37 +2,33 @@
 ![Visiteds Badge](https://komarev.com/ghpvc/?username=rarubinat&label=Profile%20views&color=0e75b6&style=flat)
 
 ### I'm Alba from Madrid, Spain 🇪🇸
-
 💻Creciendo como Full Stack & Diseñador UX/UI, aportando todas mis capacidades, pero sobretodo, mis ganas y motivación por desarrollarme profesionalmente. 
-
-Algunas de las muchas tecnologías que he aprendido, son:<br>
-📌 JavaScript, TypeScript, Processing, Arduino, HTML5, CSS3, Bootstrap, Material Design, Angular, React, NodeJS, Php, GitHub.<br>
-📌 Figma, Sketch, Invision, Adobe Illustrator, Photoshop, Premiere, Blender, Audotesk, Adobe XD.
-
+📌 I’m currently learning TypeScript, React, NextJS, AngularJS and Laravel.
 ✅Todo ello dentro de la filosofía Agile & metodología Scrum.
 
 
 ### More about me
 
 - Master's Degree in Fullstack Development.
-- Degree in Videogame Development.
+- Degree in Videogame Development in Unity.
 - Certificate B2 in English.
-- I’m currently learning TypeScript, React, Next.js, AngularJS and Laravel.
 - :chart_with_upwards_trend: I'm looking for collaboration in product design and modern web applications.
-- :speech_balloon: Ask me about `frontend`:`css`, `sass`, `js`,`vue`, `react`, `parcel`, `tailwind`, `angular`, `AOS`...
-- :speech_balloon: Ask me about `backend`:`php`, `laragon`, `sql`, `laravel`, `firebase`...
+- :speech_balloon: Ask me about `frontend`:`js`,`vue`, `react`, `parcel`, `nextjs`, `angular`, `Vite (typescript)`...
+- :speech_balloon: Ask me about `styles`:`css`, `sass`, `tailwind`, `bootstrap`, `AOS`, `AngularMaterial`...
+- :speech_balloon: Ask me about `backend`:`php`, `laragon`, `sql`, `laravel`, `firebase`, `deploys`...
+- :speech_balloon: Ask me about `Others`:`wireframes`, `Figma`, `Sketch`, `Arduino`, `Invision`, `Illustrator/Photoshop/Premiere`, `Autodesk`, `Adobe XD`, `Blender`, `Unity`, `Processing`...
 
 
 ### Projects
-- Proyecto con react y nextjs: https://cinereact-380f3.web.app/
+- Proyecto con Firebase y React(JS): https://cinereact-380f3.web.app/
 - Proyecto con Angular y Typescript: https://rarubinat.github.io/portfolio-img/
 - Proyecto con Firebase, Angular y Javascript: https://pupies-50067.firebaseapp.com/
-- Proyecto puro Javascript: https://rarubinat.github.io/caloriescount-javascript/
-- Proyecto con JS: https://rarubinat.github.io/simon-javascript/
-- https://rarubinat.github.io/planetab/
-- https://rarubinat.github.io/pwapi/
-- https://rarubinat.github.io/temperatureapi/
-- https://resufest.netlify.app/
+- Proyecto JS: https://rarubinat.github.io/caloriescount-javascript/
+- Proyecto JS: https://rarubinat.github.io/simon-javascript/
+- Proyecto CSS3 HTML: https://rarubinat.github.io/planetab/
+- Proyecto PWA AngularJS: https://rarubinat.github.io/pwapi/
+- Proyecto JS: https://rarubinat.github.io/temperatureapi/
+- Proyecto simple Bootstrap y HTML: https://resufest.netlify.app/
 
 
 ### Some of my skills are :woman_technologist:
