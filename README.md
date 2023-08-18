@@ -24,11 +24,11 @@ Algunas de las muchas tecnologías que he aprendido, son:<br>
 
 
 ### Projects
-- https://cinereact-380f3.web.app/
-- https://rarubinat.github.io/portfolio-img/
-- https://pupies-50067.firebaseapp.com/
-- https://rarubinat.github.io/caloriescount-javascript/
-- https://rarubinat.github.io/simon-javascript/
+- Proyecto con react y nextjs: https://cinereact-380f3.web.app/
+- Proyecto con Angular y Typescript: https://rarubinat.github.io/portfolio-img/
+- Proyecto con Firebase, Angular y Javascript: https://pupies-50067.firebaseapp.com/
+- Proyecto puro Javascript: https://rarubinat.github.io/caloriescount-javascript/
+- Proyecto con JS: https://rarubinat.github.io/simon-javascript/
 - https://rarubinat.github.io/planetab/
 - https://rarubinat.github.io/pwapi/
 - https://rarubinat.github.io/temperatureapi/
