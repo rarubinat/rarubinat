@@ -21,7 +21,7 @@
 
 ### Projects
 - Proyecto con Firebase y React(JS): https://cinereact-380f3.web.app/
-- Proyecto Vite + React + ApiPWA DATOS: https://poke-reactvite.netlify.app/
+- Proyecto Vite + React + Typescript + ApiPWA DATOS: https://poke-reactvite.netlify.app/
 - Proyecto con Angular y Typescript: https://rarubinat.github.io/portfolio-img/
 - Proyecto con Firebase, Angular y Javascript: https://pupies-50067.firebaseapp.com/
 - Proyecto JS: https://rarubinat.github.io/caloriescount-javascript/
