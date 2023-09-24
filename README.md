@@ -24,6 +24,7 @@
 - Proyecto Vite + React + Typescript + ApiPWA DATOS: https://poke-reactvite.netlify.app/
 - Proyecto con Angular y Typescript: https://rarubinat.github.io/portfolio-img/
 - Proyecto con Firebase, Angular y Javascript: https://pupies-50067.firebaseapp.com/
+- Proyecto WebService + Angular: https://rarubinat.github.io/api-demo/
 - Proyecto JS: https://rarubinat.github.io/caloriescount-javascript/
 - Proyecto JS: https://rarubinat.github.io/simon-javascript/
 - Proyecto CSS3 HTML: https://rarubinat.github.io/planetab/
