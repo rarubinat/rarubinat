@@ -31,6 +31,7 @@
 - Proyecto PWA AngularJS: https://rarubinat.github.io/pwapi/
 - Proyecto JS: https://rarubinat.github.io/temperatureapi/
 - Proyecto simple Bootstrap y HTML: https://resufest.netlify.app/
+- Proyectos diseño 3D / Illustrator / Photoshop: https://www.behance.net/albarubinat/
 
 
 ### Some of my skills are :woman_technologist:
