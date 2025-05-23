@@ -19,19 +19,42 @@
 - :speech_balloon: Ask me about `UX/UI`:`wireframes`, `Figma`, `Sketch`, `Invision`, `Illustrator`, `Photoshop`, `Premiere`, `Adobe XD`...
 - :speech_balloon: Ask me about `Other TI`:`Arduino`,`Autodesk`, `Blender`, `Unity`, `Processing`...
 
-### Projects
-- Proyecto con Firebase y React(JS): https://cinereact-380f3.web.app/
-- Proyecto Vite + React + Typescript + ApiPWA DATOS: https://poke-reactvite.netlify.app/
-- Proyecto con Angular y Typescript: https://rarubinat.github.io/portfolio-img/
-- Proyecto con Firebase, Angular y Javascript: https://pupies-82878.web.app/
-- Proyecto WebService + Angular: https://rarubinat.github.io/api-demo/
-- Proyecto JS: https://rarubinat.github.io/caloriescount-javascript/
-- Proyecto JS: https://rarubinat.github.io/simon-javascript/
-- Proyecto CSS3 HTML: https://rarubinat.github.io/planetab/
-- Proyecto PWA AngularJS: https://rarubinat.github.io/pwapi/
-- Proyecto JS: https://rarubinat.github.io/temperatureapi/
-- Proyecto simple Bootstrap y HTML: https://resufest.netlify.app/
-- Proyectos diseño 3D / Illustrator / Photoshop: https://www.behance.net/albarubinat/
+### Featured Projects
+- 🎬 Movie App – Firebase + React (JavaScript)
+cinereact-380f3.web.app
+
+-🐱‍💻 PokéReact – Vite + React + TypeScript + PWA with Public API
+poke-reactvite.netlify.app
+
+-🌐 Personal Portfolio – Angular + TypeScript
+rarubinat.github.io/portfolio-img
+
+-🐶 Pet App – Angular + Firebase + JavaScript
+pupies-82878.web.app
+
+-🔌 API Demo – Angular + Web Service
+rarubinat.github.io/api-demo
+
+-🍎 Calories Counter – Vanilla JavaScript
+caloriescount-javascript
+
+-🎮 Simon Game – JavaScript
+simon-javascript
+
+-🌍 Planeta B – HTML5 + CSS3
+planetab
+
+-📱 PWA Weather App – AngularJS
+pwapi
+
+🌡️ Temperature API – JavaScript
+temperatureapi
+
+-🎉 ResuFest Landing Page – Bootstrap + HTML
+resufest.netlify.app
+
+-🎨 3D Design & Graphic Portfolio – Illustrator / Photoshop / 3D Projects
+behance.net/albarubinat
 
 
 ### Some of my skills are :woman_technologist:
