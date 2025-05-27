@@ -20,18 +20,48 @@
 - :speech_balloon: Ask me about `Other TI`:`Arduino`,`Autodesk`, `Blender`, `Unity`, `Processing`...
 
 ### Featured Projects
-- Proyecto con Firebase y React(JS): https://cinereact-380f3.web.app/
-- Proyecto Vite + React + Typescript + ApiPWA DATOS: https://poke-reactvite.netlify.app/
-- Proyecto con Angular y Typescript: https://rarubinat.github.io/portfolio-img/
-- Proyecto con Firebase, Angular y Javascript: https://pupies-82878.web.app/
-- Proyecto WebService + Angular: https://rarubinat.github.io/api-demo/
-- Proyecto JS: https://rarubinat.github.io/caloriescount-javascript/
-- Proyecto JS: https://rarubinat.github.io/simon-javascript/
-- Proyecto CSS3 HTML: https://rarubinat.github.io/planetab/
-- Proyecto PWA AngularJS: https://rarubinat.github.io/pwapi/
-- Proyecto JS: https://rarubinat.github.io/temperatureapi/
-- Proyecto simple Bootstrap y HTML: https://resufest.netlify.app/
-- Proyectos diseño 3D / Illustrator / Photoshop: https://www.behance.net/albarubinat/
+🎬 CineReact
+   Proyecto con Firebase y React (JS)
+🔗 https://cinereact-380f3.web.app/
+
+🧪 PokéReact Vite
+   Proyecto Vite + React + TypeScript + API + PWA
+🔗 https://poke-reactvite.netlify.app/
+
+📂 Portfolio Angular
+   Proyecto con Angular y TypeScript (portfolio)
+🔗 https://rarubinat.github.io/portfolio-img/
+
+🐾 Puppies App
+   Proyecto con Firebase, Angular y JavaScript
+🔗 https://pupies-82878.web.app/
+
+🔌 API Demo Angular
+   Proyecto WebService + Angular
+🔗 https://rarubinat.github.io/api-demo/
+
+ ### Little projects in JavaScript y HTML/CSS
+🔥 Calories Counter App (Gestor de calorías)
+🔗 https://rarubinat.github.io/caloriescount-javascript/
+
+🎮 Simon Game
+🔗 https://rarubinat.github.io/simon-javascript/
+
+🌍 Planeta B (Proyecto en HTML y CSS3)
+🔗 https://rarubinat.github.io/planetab/
+
+🌡️ Temperature API App (Proyecto en JavaScript con consumo de API)
+🔗 https://rarubinat.github.io/temperatureapi/
+
+📱 PWA AngularJS
+🔗 https://rarubinat.github.io/pwapi/
+
+🎉 ResuFest (Bootstrap y HTML)
+🔗 https://resufest.netlify.app/
+
+🎨 Behance Portfolio
+📝 Proyectos de Illustrator, Photoshop, 3D y multimedia
+🔗 https://www.behance.net/albarubinat/
 
 
 ### Some of my skills are :woman_technologist:
