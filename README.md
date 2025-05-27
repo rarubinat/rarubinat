@@ -21,23 +21,23 @@
 
 ### Featured Projects
 🎬 CineReact
-   Proyecto con Firebase y React (JS)
+Proyecto con Firebase y React (JS)ç
 🔗 https://cinereact-380f3.web.app/
 
 🧪 PokéReact Vite
-   Proyecto Vite + React + TypeScript + API + PWA
+Proyecto Vite + React + TypeScript + API + PWA
 🔗 https://poke-reactvite.netlify.app/
 
 📂 Portfolio Angular
-   Proyecto con Angular y TypeScript (portfolio)
+Proyecto con Angular y TypeScript (portfolio)
 🔗 https://rarubinat.github.io/portfolio-img/
 
 🐾 Puppies App
-   Proyecto con Firebase, Angular y JavaScript
+Proyecto con Firebase, Angular y JavaScript
 🔗 https://pupies-82878.web.app/
 
 🔌 API Demo Angular
-   Proyecto WebService + Angular
+Proyecto WebService + Angular
 🔗 https://rarubinat.github.io/api-demo/
 
  ### Little projects in JavaScript y HTML/CSS
@@ -59,8 +59,7 @@
 🎉 ResuFest (Bootstrap y HTML)
 🔗 https://resufest.netlify.app/
 
-🎨 Behance Portfolio
-📝 Proyectos de Illustrator, Photoshop, 3D y multimedia
+🎨 Behance Portfolio (Proyectos de Illustrator, Photoshop, 3D y multimedia)
 🔗 https://www.behance.net/albarubinat/
 
 
