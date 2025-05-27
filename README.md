@@ -20,16 +20,16 @@
 - :speech_balloon: Ask me about `Other TI`:`Arduino`,`Autodesk`, `Blender`, `Unity`, `Processing`...
 
 ### Featured Projects
-🎬 CineReact
-Proyecto con Firebase y React (JS)ç
+🎬 CineReact␣␣
+Proyecto con Firebase y React (JS)␣␣
 🔗 https://cinereact-380f3.web.app/
 
-🧪 PokéReact Vite
-Proyecto Vite + React + TypeScript + API + PWA
+🧪 PokéReact Vite␣␣
+Proyecto Vite + React + TypeScript + API + PWA␣␣
 🔗 https://poke-reactvite.netlify.app/
 
-📂 Portfolio Angular
-Proyecto con Angular y TypeScript (portfolio)
+📂 Portfolio Angular␣␣
+Proyecto con Angular y TypeScript (portfolio)␣␣
 🔗 https://rarubinat.github.io/portfolio-img/
 
 🐾 Puppies App
