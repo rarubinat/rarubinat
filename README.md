@@ -20,46 +20,46 @@
 - :speech_balloon: Ask me about `Other TI`:`Arduino`,`Autodesk`, `Blender`, `Unity`, `Processing`...
 
 ### Featured Projects
-🎬 CineReact␣␣
-Proyecto con Firebase y React (JS)␣␣
+🎬 CineReact<br>
+Proyecto con Firebase y React (JS)<br>
 🔗 https://cinereact-380f3.web.app/
 
-🧪 PokéReact Vite␣␣
-Proyecto Vite + React + TypeScript + API + PWA␣␣
+🧪 PokéReact Vite<br>
+Proyecto Vite + React + TypeScript + API + PWA<br>
 🔗 https://poke-reactvite.netlify.app/
 
-📂 Portfolio Angular␣␣
-Proyecto con Angular y TypeScript (portfolio)␣␣
+📂 Portfolio Angular<br>
+Proyecto con Angular y TypeScript (portfolio)<br>
 🔗 https://rarubinat.github.io/portfolio-img/
 
-🐾 Puppies App
-Proyecto con Firebase, Angular y JavaScript
+🐾 Puppies App<br>
+Proyecto con Firebase, Angular y JavaScript<br>
 🔗 https://pupies-82878.web.app/
 
-🔌 API Demo Angular
-Proyecto WebService + Angular
+🔌 API Demo Angular<br>
+Proyecto WebService + Angular<br>
 🔗 https://rarubinat.github.io/api-demo/
 
- ### Little projects in JavaScript y HTML/CSS
-🔥 Calories Counter App (Gestor de calorías)
+ ### Little projects in JavaScript y HTML/CSS<br>
+🔥 Calories Counter App (Gestor de calorías)<br>
 🔗 https://rarubinat.github.io/caloriescount-javascript/
 
-🎮 Simon Game
+🎮 Simon Game<br>
 🔗 https://rarubinat.github.io/simon-javascript/
 
-🌍 Planeta B (Proyecto en HTML y CSS3)
+🌍 Planeta B (Proyecto en HTML y CSS3)<br>
 🔗 https://rarubinat.github.io/planetab/
 
-🌡️ Temperature API App (Proyecto en JavaScript con consumo de API)
+🌡️ Temperature API App (Proyecto en JavaScript con consumo de API)<br>
 🔗 https://rarubinat.github.io/temperatureapi/
 
-📱 PWA AngularJS
+📱 PWA AngularJS<br>
 🔗 https://rarubinat.github.io/pwapi/
 
-🎉 ResuFest (Bootstrap y HTML)
+🎉 ResuFest (Bootstrap y HTML)<br>
 🔗 https://resufest.netlify.app/
 
-🎨 Behance Portfolio (Proyectos de Illustrator, Photoshop, 3D y multimedia)
+🎨 Behance Portfolio (Proyectos de Illustrator, Photoshop, 3D y multimedia)<br>
 🔗 https://www.behance.net/albarubinat/
 
 
