@@ -26,19 +26,19 @@ Firebase, Angular<br>
 
 🎬 CineReact<br>
 Firebase, React <br>
-🔗 https://cinereact-380f3.web.app/
+🔗 (https://cinereact-380f3.web.app/)
 
 🧪 PokéReact Vite<br>
 Vite + React + TypeScript + API + PWA<br>
-🔗 https://poke-reactvite.netlify.app/
+🔗 (https://poke-reactvite.netlify.app/)
 
 🎮 Happy Memories (game)<br>
 Unity + Visual Studio 2019 + C# + PixelArt<br>
-🔗 https://github.com/rarubinat/happy-memories/
+🔗 (https://github.com/rarubinat/happy-memories/)
 
 📂 Portfolio Angular<br>
 Angular <br>
-🔗 https://rarubinat.github.io/portfolio-img/
+🔗 (https://rarubinat.github.io/portfolio-img/)
 
 🔌 API Demo Angular<br>
 Proyecto WebService + Angular<br>
@@ -46,25 +46,25 @@ Proyecto WebService + Angular<br>
 
  ### Little projects in JS/HTML/CSS<br>
 🔥 Calories Counter App<br>
-🔗 https://rarubinat.github.io/caloriescount-javascript/
+🔗 (https://rarubinat.github.io/caloriescount-javascript/)
 
 🎮 Simon Game<br>
-🔗 https://rarubinat.github.io/simon-javascript/
+🔗 (https://rarubinat.github.io/simon-javascript/)
 
 🌍 PlanetaB B<br>
-🔗 https://rarubinat.github.io/planetab/
+🔗 (https://rarubinat.github.io/planetab/)
 
 🌡️ Weather API App<br>
-🔗 https://rarubinat.github.io/temperatureapi/
+🔗 (https://rarubinat.github.io/temperatureapi/)
 
 📱 PWA AngularJS<br>
-🔗 https://rarubinat.github.io/pwapi/
+🔗 (https://rarubinat.github.io/pwapi/)
 
 🎉 ResuFest (Bootstrap/HTML)<br>
-🔗 https://resufest.netlify.app/
+🔗 (https://resufest.netlify.app/)
 
-🎨 Behance Portfolio (Illustrator, Photoshop, 3D y multimedia)<br>
-🔗 https://www.behance.net/albarubinat/
+🎨 Behance Portfolio (Illustrator, Photoshop, 3D)<br>
+🔗 (https://www.behance.net/albarubinat/)
 
 
 ### Some of my skills are :woman_technologist:
