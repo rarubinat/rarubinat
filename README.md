@@ -21,45 +21,45 @@
 
 ### Featured Projects
 🐾 Puppies App<br>
-Proyecto con Firebase, Angular y JavaScript<br>
+Firebase, Angular<br>
 🔗 (https://pupies-50067.web.app/)
 
 🎬 CineReact<br>
-Proyecto con Firebase y React (JS)<br>
+Firebase, React <br>
 🔗 https://cinereact-380f3.web.app/
 
 🧪 PokéReact Vite<br>
-Proyecto Vite + React + TypeScript + API + PWA<br>
+Vite + React + TypeScript + API + PWA<br>
 🔗 https://poke-reactvite.netlify.app/
 
 📂 Portfolio Angular<br>
-Proyecto con Angular y TypeScript (portfolio)<br>
+Angular <br>
 🔗 https://rarubinat.github.io/portfolio-img/
 
 🔌 API Demo Angular<br>
 Proyecto WebService + Angular<br>
 🔗 https://rarubinat.github.io/api-demo/
 
- ### Little projects in JavaScript y HTML/CSS<br>
-🔥 Calories Counter App (Gestor de calorías)<br>
+ ### Little projects in JS/HTML/CSS<br>
+🔥 Calories Counter App<br>
 🔗 https://rarubinat.github.io/caloriescount-javascript/
 
 🎮 Simon Game<br>
 🔗 https://rarubinat.github.io/simon-javascript/
 
-🌍 Planeta B (Proyecto en HTML y CSS3)<br>
+🌍 PlanetaB B<br>
 🔗 https://rarubinat.github.io/planetab/
 
-🌡️ Temperature API App (Proyecto en JavaScript con consumo de API)<br>
+🌡️ Weather API App<br>
 🔗 https://rarubinat.github.io/temperatureapi/
 
 📱 PWA AngularJS<br>
 🔗 https://rarubinat.github.io/pwapi/
 
-🎉 ResuFest (Bootstrap y HTML)<br>
+🎉 ResuFest (Bootstrap/HTML)<br>
 🔗 https://resufest.netlify.app/
 
-🎨 Behance Portfolio (Proyectos de Illustrator, Photoshop, 3D y multimedia)<br>
+🎨 Behance Portfolio (Illustrator, Photoshop, 3D y multimedia)<br>
 🔗 https://www.behance.net/albarubinat/
 
 
