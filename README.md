@@ -20,6 +20,10 @@
 - :speech_balloon: Ask me about `Other TI`:`Arduino`,`Autodesk`, `Blender`, `Unity`, `Processing`...
 
 ### Featured Projects
+🐾 Puppies App<br>
+Proyecto con Firebase, Angular y JavaScript<br>
+🔗 (https://pupies-50067.web.app/)
+
 🎬 CineReact<br>
 Proyecto con Firebase y React (JS)<br>
 🔗 https://cinereact-380f3.web.app/
@@ -31,10 +35,6 @@ Proyecto Vite + React + TypeScript + API + PWA<br>
 📂 Portfolio Angular<br>
 Proyecto con Angular y TypeScript (portfolio)<br>
 🔗 https://rarubinat.github.io/portfolio-img/
-
-🐾 Puppies App<br>
-Proyecto con Firebase, Angular y JavaScript<br>
-🔗 (https://pupies-50067.web.app/)
 
 🔌 API Demo Angular<br>
 Proyecto WebService + Angular<br>
