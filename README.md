@@ -8,12 +8,12 @@
 
 ### More about me
 
-- Master's Degree in Fullstack Development.
-- Degree in Videogame Development in Unity.
-- Certificate B2 in English.
+- 🎓 Master's Degree in Fullstack Development.
+- 🎓 Degree in Videogame Development in Unity.
+- :speech_balloon: Certificate B2 in English.
 - :chart_with_upwards_trend: Looking to collaborate on product design & modern web applications.
 
-- :speech_balloon: Ask me about:
+- 🧰 Tech stack:
 
   - **Frontend**: `JavaScript`, `Vue`, `React`, `Next.js`, `Angular`, `Vite`, `TypeScript`  
   - **Styling**: `CSS`, `SASS`, `Tailwind`, `Bootstrap`, `AOS`, `Angular Material`  
@@ -34,6 +34,21 @@
 | 🎮 Happy Memories (Game) | Unity + C# + PixelArt | [GitHub](https://github.com/rarubinat/happy-memories/) |
 | 📂 Portfolio Angular | Angular | [Live](https://rarubinat.github.io/portfolio-img/) |
 | 🔌 API Demo Angular | Angular + WebService | [Live](https://rarubinat.github.io/api-demo/) |
+
+---
+
+
+## 🧪 Mini Projects
+
+| Proyecto | Descripción / Tecnología | Link |
+|---------|---------------------------|------|
+| 🔥 **Calories Counter App** | App para contar calorías usando JavaScript | [Live](https://rarubinat.github.io/caloriescount-javascript/) |
+| 🎮 **Simon Game** | Juego clásico implementado con JavaScript | [Live](https://rarubinat.github.io/simon-javascript/) |
+| 🌍 **PlanetaB B** | Proyecto educativo interactivo | [Live](https://rarubinat.github.io/planetab/) |
+| 🌡️ **Weather API App** | Consulta el clima con una API meteorológica | [Live](https://rarubinat.github.io/temperatureapi/) |
+| 📱 **PWA AngularJS** | App Progresiva usando AngularJS | [Live](https://rarubinat.github.io/pwapi/) |
+| 🎉 **ResuFest** | Proyecto festivo interactivo | [Live](https://resufest.netlify.app/) |
+| 🎨 **Portfolio Behance** | Portfolio de diseño gráfico y UI/UX | [Behance](https://www.behance.net/albarubinat/) |
 
 ---
 
