@@ -27,11 +27,11 @@
 
 | Project | Tech | Description | Link |
 |--------|------|-------------|------|
-| 🐾 Puppies App | Angular + Firebase | Dog adoption app with authentication and real-time database. | [Live](https://pupies-50067.web.app/) |
-| 🎬 CineReact | React + Firebase | Movie and TV series browser using TMDB API. Includes search and favorites. | [Live](https://cinereact-380f3.web.app/) |
+| 🐾 Puppies App | Angular + Firebase | App for adopting or putting up for adoption dogs, cats, and rodents. Users can register and log in using an authentication system. Once authenticated, they can post pets for adoption or request to adopt others. Each adoption generates a user-to-user request that must be accepted or rejected. The app includes full CRUD functionality to manage pet and user data, backed by a real-time database. | [Live](https://pupies-50067.web.app/) |
+| 🎬 CineReact | React + Firebase | Cinema app that displays movies currently showing. Users can select a movie, choose the screening room, and reserve seats. Reservations are stored in a database for later consultation. | [Live](https://cinereact-380f3.web.app/) |
 | 🧪 PokéReact Vite | Vite + React + TypeScript + PWA | PWA to browse Pokémon info. Responsive, offline support, and fast performance. | [Live](https://poke-reactvite.netlify.app/) |
-| 🎮 Happy Memories (Game) | Unity + C# + PixelArt | 2D adventure game with retro pixel art style, focused on exploration and storytelling. | [GitHub](https://github.com/rarubinat/happy-memories/) |
-| 📂 Portfolio Angular | Angular | Responsive personal portfolio with animated sections and smooth transitions. | [Live](https://rarubinat.github.io/portfolio-img/) |
+| 🎮 Happy Memories (Game) | Unity + C# + PixelArt | 2D adventure game designed in a retro pixel art style, fully developed from design to programming and mechanics. Created as a master’s final project, it features a narrative centered around collecting rewards to complete each level. | [GitHub](https://github.com/rarubinat/happy-memories/) |
+| 📂 Portfolio Angular | Angular | Responsive personal photographic portfolio with animated sections and smooth transitions. | [Live](https://rarubinat.github.io/portfolio-img/) |
 | 🔌 API Demo Angular | Angular + WebService | Demo app consuming an external API with data integration and pagination. | [Live](https://rarubinat.github.io/api-demo/) |
 
 
@@ -39,15 +39,15 @@
 
 ## 🧪 Mini Projects
 
-| Proyecto | Descripción / Tecnología | Link |
-|---------|---------------------------|------|
-| 🔥 **Calories Counter App** | App para contar calorías usando JavaScript | [Live](https://rarubinat.github.io/caloriescount-javascript/) |
-| 🎮 **Simon Game** | Juego clásico implementado con JavaScript | [Live](https://rarubinat.github.io/simon-javascript/) |
-| 🌍 **PlanetaB B** | Proyecto educativo interactivo | [Live](https://rarubinat.github.io/planetab/) |
-| 🌡️ **Weather API App** | Consulta el clima con una API meteorológica | [Live](https://rarubinat.github.io/temperatureapi/) |
-| 📱 **PWA AngularJS** | App Progresiva usando AngularJS | [Live](https://rarubinat.github.io/pwapi/) |
-| 🎉 **ResuFest** | Proyecto festivo interactivo | [Live](https://resufest.netlify.app/) |
-| 🎨 **Portfolio Behance** | Portfolio de diseño gráfico y UI/UX | [Behance](https://www.behance.net/albarubinat/) |
+| Project | Description / Tech | Link |
+|---------|--------------------------|------|
+| 🔥 **Calories Counter App** | App to count calories using JavaScript | [Live](https://rarubinat.github.io/caloriescount-javascript/) |
+| 🎮 **Simon Game** | Classic game implemented with JavaScript | [Live](https://rarubinat.github.io/simon-javascript/) |
+| 🌍 **PlanetaB B** | Interactive educational project | [Live](https://rarubinat.github.io/planetab/) |
+| 🌡️ **Weather API App** | Check the weather using a meteorological API | [Live](https://rarubinat.github.io/temperatureapi/) |
+| 📱 **PWA AngularJS** | Progressive Web App using AngularJS | [Live](https://rarubinat.github.io/pwapi/) |
+| 🎉 **ResuFest** | Interactive festival project | [Live](https://resufest.netlify.app/) |
+| 🎨 **Portfolio Behance** | Graphic design and UI/UX portfolio | [Behance](https://www.behance.net/albarubinat/) |
 
 ---
 
