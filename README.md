@@ -59,6 +59,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rarubinat&layout=compact&langs_count=7&theme=dracula)
 
 ### Let's connect!
+Looking forward to creating amazing things together! ✌🏻
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rarubinat@gmail.com)
 
