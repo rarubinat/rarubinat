@@ -38,15 +38,16 @@
 
 ## 🧪 Mini Projects
 
-| Proyecto | Descripción / Tecnología | Link |
-|---------|---------------------------|------|
-| 🔥 **Calories Counter App** | App para contar calorías usando JavaScript | [Live](https://rarubinat.github.io/caloriescount-javascript/) |
-| 🎮 **Simon Game** | Juego clásico implementado con JavaScript | [Live](https://rarubinat.github.io/simon-javascript/) |
-| 🌍 **PlanetaB B** | Proyecto educativo interactivo | [Live](https://rarubinat.github.io/planetab/) |
-| 🌡️ **Weather API App** | Consulta el clima con una API meteorológica | [Live](https://rarubinat.github.io/temperatureapi/) |
-| 📱 **PWA AngularJS** | App Progresiva usando AngularJS | [Live](https://rarubinat.github.io/pwapi/) |
-| 🎉 **ResuFest** | Proyecto festivo interactivo | [Live](https://resufest.netlify.app/) |
-| 🎨 **Portfolio Behance** | Portfolio de diseño gráfico y UI/UX | [Behance](https://www.behance.net/albarubinat/) |
+### 🚀 Featured Projects
+
+| Project | Tech | Description | Link |
+|--------|------|-------------|------|
+| 🐾 Puppies App | Angular + Firebase | Dog adoption app with authentication and real-time database. | [Live](https://pupies-50067.web.app/) |
+| 🎬 CineReact | React + Firebase | Movie and TV series browser using TMDB API. Includes search and favorites. | [Live](https://cinereact-380f3.web.app/) |
+| 🧪 PokéReact Vite | Vite + React + TypeScript + PWA | PWA to browse Pokémon info. Responsive, offline support, and fast performance. | [Live](https://poke-reactvite.netlify.app/) |
+| 🎮 Happy Memories (Game) | Unity + C# + PixelArt | 2D adventure game with retro pixel art style, focused on exploration and storytelling. | [GitHub](https://github.com/rarubinat/happy-memories/) |
+| 📂 Portfolio Angular | Angular | Responsive personal portfolio with animated sections and smooth transitions. | [Live](https://rarubinat.github.io/portfolio-img/) |
+| 🔌 API Demo Angular | Angular + WebService | Demo app consuming an external API with data integration and pagination. | [Live](https://rarubinat.github.io/api-demo/) |
 
 ---
 
