@@ -31,23 +31,23 @@
 | 🎬 CineReact | React + Firebase | Cinema app that displays movies currently showing. Users can select a movie, choose the screening room, and reserve seats. Reservations are stored in a database for later consultation. | [Live](https://cinereact-380f3.web.app/) |
 | 🧪 PokéReact Vite | Vite + React + TypeScript + PWA | PWA to browse Pokémon info. Responsive, offline support, and fast performance. | [Live](https://poke-reactvite.netlify.app/) |
 | 🎮 Happy Memories (Game) | Unity + C# + PixelArt | 2D adventure game designed in a retro pixel art style, fully developed from design to programming and mechanics. Created as a master’s final project, it features a narrative centered around collecting rewards to complete each level. | [GitHub](https://github.com/rarubinat/happy-memories/) |
-| 📂 Portfolio Angular | Angular | Responsive personal photographic portfolio with animated sections and smooth transitions. | [Live](https://rarubinat.github.io/portfolio-img/) |
-| 🔌 API Demo Angular | Angular + WebService | Demo app consuming an external API with data integration and pagination. | [Live](https://rarubinat.github.io/api-demo/) |
-
 
 ---
 
 ## 🧪 Mini Projects
 
-| Project | Description / Tech | Link |
-|---------|--------------------------|------|
-| 🔥 **Calories Counter App** | App to count calories using JavaScript | [Live](https://rarubinat.github.io/caloriescount-javascript/) |
-| 🎮 **Simon Game** | Classic game implemented with JavaScript | [Live](https://rarubinat.github.io/simon-javascript/) |
-| 🌍 **PlanetaB B** | Interactive educational project | [Live](https://rarubinat.github.io/planetab/) |
-| 🌡️ **Weather API App** | Check the weather using a meteorological API | [Live](https://rarubinat.github.io/temperatureapi/) |
-| 📱 **PWA AngularJS** | Progressive Web App using AngularJS | [Live](https://rarubinat.github.io/pwapi/) |
-| 🎉 **ResuFest** | Interactive festival project | [Live](https://resufest.netlify.app/) |
-| 🎨 **Portfolio Behance** | Graphic design and UI/UX portfolio | [Behance](https://www.behance.net/albarubinat/) |
+| Project | Tech / Description | Live |
+|--------|---------------------|------|
+| 📂 **Portfolio Angular** | Angular – Responsive personal photographic portfolio with animated sections and smooth transitions. | [Live](https://rarubinat.github.io/portfolio-img/) |
+| 🔌 **API Demo Angular** | Angular + WebService – Demo app consuming an external API with data integration and pagination. | [Live](https://rarubinat.github.io/api-demo/) |
+| 🔥 **Calories Counter App** | JavaScript – App to count calories using vanilla JS. | [Live](https://rarubinat.github.io/caloriescount-javascript/) |
+| 🎮 **Simon Game** | JavaScript – Classic game implemented from scratch. | [Live](https://rarubinat.github.io/simon-javascript/) |
+| 🌍 **PlanetaB B** | Interactive educational project built with HTML/CSS/JS. | [Live](https://rarubinat.github.io/planetab/) |
+| 🌡️ **Weather API App** | JavaScript – Check the weather using a meteorological API. | [Live](https://rarubinat.github.io/temperatureapi/) |
+| 📱 **PWA AngularJS** | Progressive Web App built with AngularJS. | [Live](https://rarubinat.github.io/pwapi/) |
+| 🎉 **ResuFest** | Interactive festival project with visual animations. | [Live](https://resufest.netlify.app/) |
+| 🎨 **Portfolio Behance** | Graphic design and UI/UX portfolio. | [Behance](https://www.behance.net/albarubinat/) |
+
 
 ---
 
