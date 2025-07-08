@@ -45,7 +45,7 @@
 | 🌍 **PlanetaB B** | Interactive educational project built with HTML/CSS/JS. | [Live](https://rarubinat.github.io/planetab/) |
 | 🌡️ **Weather API App** | JavaScript – Check the weather using a meteorological API. | [Live](https://rarubinat.github.io/temperatureapi/) |
 | 📱 **PWA AngularJS** | Progressive Web App built with AngularJS. | [Live](https://rarubinat.github.io/pwapi/) |
-| 🎉 **ResuFest** | Interactive festival project with visual animations. | [Live](https://resufest.netlify.app/) |
+| 🎉 **ResuFest** | Tailwind CSS – Interactive festival project with responsive design and visual animations. | [Live](https://resufest.netlify.app/) |
 | 🎨 **Portfolio Behance** | Graphic design and UI/UX portfolio. | [Behance](https://www.behance.net/albarubinat/) |
 
 
