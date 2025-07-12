@@ -34,7 +34,7 @@
 
 ---
 
-## 🧪 Mini Projects
+### Mini Projects
 
 | Project | Tech / Description | Live |
 |--------|---------------------|------|
