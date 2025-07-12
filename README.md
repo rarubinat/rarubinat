@@ -23,7 +23,7 @@
  
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured projects
 
 | Project | Tech | Description | Link |
 |--------|------|-------------|------|
@@ -32,7 +32,7 @@
 | PokéReact | Vite + React + TypeScript + PWA | PWA to browse Pokémon info. Responsive, offline support, and fast performance. | [Live](https://poke-reactvite.netlify.app/) |
 | Happy Memories | Unity + C# + PixelArt | 2D adventure game designed in a retro pixel art style, fully developed from design to programming and mechanics. Created as a master’s final project, it features a narrative centered around collecting rewards to complete each level. | [GitHub](https://github.com/rarubinat/happy-memories/) |
 
-### Mini Projects
+### A little projects
 
 | Project | Tech / Description | Live |
 |--------|---------------------|------|
