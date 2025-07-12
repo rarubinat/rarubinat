@@ -27,10 +27,10 @@
 
 | Project | Tech | Description | Link |
 |--------|------|-------------|------|
-| 🐾 Puppies | Angular + Firebase | App for adopting or putting up for adoption dogs, cats, and rodents. Users can register and log in using an authentication system. Once authenticated, they can post pets for adoption or request to adopt others. Each adoption generates a user-to-user request that must be accepted or rejected. The app includes full CRUD functionality to manage pet and user data, backed by a real-time database. | [Live](https://pupies-50067.web.app/) |
-| 🎬 CineReact | React + Firebase | Cinema app that displays movies currently showing. Users can select a movie, choose the screening room, and reserve seats. Reservations are stored in a database for later consultation. | [Live](https://cinereact-380f3.web.app/) |
-| 🧪 PokéReact | Vite + React + TypeScript + PWA | PWA to browse Pokémon info. Responsive, offline support, and fast performance. | [Live](https://poke-reactvite.netlify.app/) |
-| 🎮 Happy Memories | Unity + C# + PixelArt | 2D adventure game designed in a retro pixel art style, fully developed from design to programming and mechanics. Created as a master’s final project, it features a narrative centered around collecting rewards to complete each level. | [GitHub](https://github.com/rarubinat/happy-memories/) |
+| Puppies | Angular + Firebase | App for adopting or putting up for adoption dogs, cats, and rodents. Users can register and log in using an authentication system. Once authenticated, they can post pets for adoption or request to adopt others. Each adoption generates a user-to-user request that must be accepted or rejected. The app includes full CRUD functionality to manage pet and user data, backed by a real-time database. | [Live](https://pupies-50067.web.app/) |
+| CineReact | React + Firebase | Cinema app that displays movies currently showing. Users can select a movie, choose the screening room, and reserve seats. Reservations are stored in a database for later consultation. | [Live](https://cinereact-380f3.web.app/) |
+| PokéReact | Vite + React + TypeScript + PWA | PWA to browse Pokémon info. Responsive, offline support, and fast performance. | [Live](https://poke-reactvite.netlify.app/) |
+| Happy Memories | Unity + C# + PixelArt | 2D adventure game designed in a retro pixel art style, fully developed from design to programming and mechanics. Created as a master’s final project, it features a narrative centered around collecting rewards to complete each level. | [GitHub](https://github.com/rarubinat/happy-memories/) |
 
 ---
 
