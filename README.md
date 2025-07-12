@@ -36,15 +36,15 @@
 
 | Project | Tech / Description | Live |
 |--------|---------------------|------|
-| 📂 **Portfolio** | Angular – Responsive personal photographic portfolio with animated sections and smooth transitions. | [Live](https://rarubinat.github.io/portfolio-img/) |
-| 🔌 **Web Service** | Angular + WebService – Demo app consuming an external API with data integration and pagination. | [Live](https://rarubinat.github.io/api-demo/) |
-| 🔥 **Calories Counter** | JavaScript – App to count calories using vanilla JS. | [Live](https://rarubinat.github.io/caloriescount-javascript/) |
-| 🎮 **Simon** | JavaScript – Classic game "Simon says" implemented from scratch. | [Live](https://rarubinat.github.io/simon-javascript/) |
-| 🌍 **Planeta B** | Interactive educational project built with HTML/CSS/JS. | [Live](https://rarubinat.github.io/planetab/) |
-| 🌡️ **Weather** | JavaScript – Check the weather using a meteorological API. | [Live](https://rarubinat.github.io/temperatureapi/) |
-| 📱 **PWA** | Progressive Web App built with AngularJS. | [Live](https://rarubinat.github.io/pwapi/) |
-| 🎉 **ResuFest** | Tailwind CSS – Interactive festival project with responsive design and visual animations. | [Live](https://resufest.netlify.app/) |
-| 🎨 **Portfolio Behance** | Graphic design and UI/UX portfolio. | [Behance](https://www.behance.net/albarubinat/) |
+| **Portfolio** | Angular – Responsive personal photographic portfolio with animated sections and smooth transitions. | [Live](https://rarubinat.github.io/portfolio-img/) |
+| **Web Service** | Angular + WebService – Demo app consuming an external API with data integration and pagination. | [Live](https://rarubinat.github.io/api-demo/) |
+| **Calories Counter** | JavaScript – App to count calories using vanilla JS. | [Live](https://rarubinat.github.io/caloriescount-javascript/) |
+| **Simon** | JavaScript – Classic game "Simon says" implemented from scratch. | [Live](https://rarubinat.github.io/simon-javascript/) |
+| **Planeta B** | Interactive educational project built with HTML/CSS/JS. | [Live](https://rarubinat.github.io/planetab/) |
+| **Weather** | JavaScript – Check the weather using a meteorological API. | [Live](https://rarubinat.github.io/temperatureapi/) |
+| **PWA** | Progressive Web App built with AngularJS. | [Live](https://rarubinat.github.io/pwapi/) |
+| **ResuFest** | Tailwind CSS – Interactive festival project with responsive design and visual animations. | [Live](https://resufest.netlify.app/) |
+| **Behance** | Graphic design and UI/UX portfolio. | [Behance](https://www.behance.net/albarubinat/) |
 
 
 ---
