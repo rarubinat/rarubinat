@@ -1,17 +1,17 @@
 ## Hello world ##
 ![Visiteds Badge](https://komarev.com/ghpvc/?username=rarubinat&label=Profile%20views&color=0e75b6&style=flat)
 
-### I'm Alba from Madrid, Spain 🇪🇸
-- 💻 Full Stack Developer & UX/UI Designer, combining technical and creative skills with a strong motivation to keep growing professionally.
+### 👋 Hi, I'm Alba – Full Stack Developer & UX/UI Designer
+- 💻 I'm a Full Stack Developer and UX/UI Designer from Madrid 🇪🇸. I blend creativity with code to design seamless digital experiences. Passionate about product design, clean architecture, and intuitive interfaces.
 - 📚 Currently learning: **TypeScript, React, Next.js, AngularJS, Laravel**
 - 🧭 Working with **Agile philosophy & Scrum methodology**
 
-### More about me
+### Education & Certifications
 
 - 🎓 Master's Degree in Fullstack Development.
-- 🎓 Degree in Videogame Development in Unity.
+- 🎓 Degree in Videogame Development (Unity).
 - :speech_balloon: Certificate B2 in English.
-- :chart_with_upwards_trend: Looking to collaborate on product design & modern web applications.
+- :chart_with_upwards_trend: Interested in collaborating on modern web apps and digital product design
 
 - 🧰 Tech stack:
 
@@ -33,7 +33,7 @@
 | Moodboard | Angular + AOS + TailwindCSS  | A stylish frontend moodboard app built with Angular, AOS animations, and Tailwind CSS | [Live](https://rarubinat.github.io/moodboard-app/) |
 | Happy Memories | Unity + C# + PixelArt | 2D adventure game designed in a retro pixel art style, fully developed from design to programming and mechanics. Created as a master’s final project, it features a narrative centered around collecting rewards to complete each level. | [GitHub](https://github.com/rarubinat/happy-memories/) |
 
-### A little projects
+### 🛠️ Other Projects
 
 | Project | Tech / Description | Live |
 |--------|---------------------|------|
