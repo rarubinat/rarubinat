@@ -46,11 +46,12 @@
 | **Weather** | JavaScript – Check the weather using a meteorological API. | [Live](https://rarubinat.github.io/temperatureapi/) |
 | **PWA** | Progressive Web App built with AngularJS. | [Live](https://rarubinat.github.io/pwapi/) |
 
-🎨 Design & Code Showcases
+###🎨 Design & Code Showcases
 | Project | Description | Live |
 |--------|---------------------|------|
 | **Behance** | Graphic design and UI/UX portfolio. | [Behance](https://www.behance.net/albarubinat/) |
 | **Codepen** | Frontend animations experiments and microprojects. | [Codepen](https://codepen.io/rarubinat) |
+
 
 ---
 
@@ -60,6 +61,5 @@
 
 ### Let's connect!
 Looking forward to creating amazing things together! ✌🏻
-
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rarubinat@gmail.com)
 
