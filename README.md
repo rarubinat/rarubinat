@@ -2,24 +2,24 @@
 ![Visiteds Badge](https://komarev.com/ghpvc/?username=rarubinat&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 👋 Hi, I'm Alba – Full Stack Developer & UX/UI Designer
-- 💻 I'm a Full Stack Developer and UX/UI Designer from Madrid 🇪🇸. I blend creativity with code to design seamless digital experiences. Passionate about product design, clean architecture, and intuitive interfaces.
-- 📚 Currently learning: **TypeScript, React, Next.js, AngularJS, Laravel**
-- 🧭 Working with **Agile philosophy & Scrum methodology**
+ - 💻 I'm a Full Stack Developer and UX/UI Designer from Madrid 🇪🇸. I blend creativity with code to design seamless digital experiences. Passionate about product design, clean architecture, and intuitive interfaces.
+ - 📚 Currently learning: **TypeScript, React, Next.js, AngularJS, Laravel**
+ - 🧭 Working with **Agile philosophy & Scrum methodology**
 
 ### Education & Certifications
 
-- 🎓 Master's Degree in Fullstack Development.
-- 🎓 Degree in Videogame Development (Unity).
-- :speech_balloon: Certificate B2 in English.
-- :chart_with_upwards_trend: Interested in collaborating on modern web apps and digital product design
+ - 🎓 Master's Degree in Fullstack Development.
+ - 🎓 Degree in Videogame Development (Unity).
+ - :speech_balloon: Certificate B2 in English.
+ - :chart_with_upwards_trend: Interested in collaborating on modern web apps and digital product design
 
 - 🧰 Tech stack:
 
-- **Frontend**: `JavaScript`, `Vue`, `React`, `Nextjs`, `Angular`, `Vite`, `TypeScript`, `Nodejs`, `Express`, `GSAP`
-- **Styling**: `CSS`, `SASS`, `Tailwind`, `Bootstrap`, `AOS`, `Angular Material`  
-- **Backend**: `PHP`, `SQL`, `Laravel`, `Firebase`, `Laragon`, `Deployments`  
-- **UX/UI Design**: `Wireframes`, `Figma`, `Sketch`, `Invision`, `Illustrator`, `Photoshop`, `Premiere`, `Adobe XD`  
-- **Other Tech**: `Arduino`, `Autodesk`, `Blender`, `Unity`, `Processing`
+ - **Frontend**: `JavaScript`, `Vue`, `React`, `Nextjs`, `Angular`, `Vite`, `TypeScript`, `Nodejs`, `Express`, `GSAP`
+ - **Styling**: `CSS`, `SASS`, `Tailwind`, `Bootstrap`, `AOS`, `Angular Material`  
+ - **Backend**: `PHP`, `SQL`, `Laravel`, `Firebase`, `Laragon`, `Deployments`  
+ - **UX/UI Design**: `Wireframes`, `Figma`, `Sketch`, `Invision`, `Illustrator`, `Photoshop`, `Premiere`, `Adobe XD`  
+ - **Other Tech**: `Arduino`, `Autodesk`, `Blender`, `Unity`, `Processing`
  
 ---
 
@@ -48,10 +48,9 @@
 
 ### 🎨 Design & Code Showcases
 | Project | Description |
-|--------|---------------------|
+|--------|----------------|
 | [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/albarubinat/)| Graphic design and UI/UX portfolio. |
-| [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rarubinat/collections)
- | Frontend animations experiments and microprojects. |
+| [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)] | Frontend animations experiments and microprojects. |
 
 
 ---
