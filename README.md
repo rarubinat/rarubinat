@@ -15,11 +15,11 @@
 
 - 🧰 Tech stack:
 
-  - **Frontend**: `JavaScript`, `Vue`, `React`, `Nextjs`, `Angular`, `Vite`, `TypeScript`, `Nodejs`, `Express`
-  - **Styling**: `CSS`, `SASS`, `Tailwind`, `Bootstrap`, `AOS`, `Angular Material`  
-  - **Backend**: `PHP`, `SQL`, `Laravel`, `Firebase`, `Laragon`, `Deployments`  
-  - **UX/UI Design**: `Wireframes`, `Figma`, `Sketch`, `Invision`, `Illustrator`, `Photoshop`, `Premiere`, `Adobe XD`  
-  - **Other Tech**: `Arduino`, `Autodesk`, `Blender`, `Unity`, `Processing`
+- **Frontend**: `JavaScript`, `Vue`, `React`, `Nextjs`, `Angular`, `Vite`, `TypeScript`, `Nodejs`, `Express`, `GSAP`
+- **Styling**: `CSS`, `SASS`, `Tailwind`, `Bootstrap`, `AOS`, `Angular Material`  
+- **Backend**: `PHP`, `SQL`, `Laravel`, `Firebase`, `Laragon`, `Deployments`  
+- **UX/UI Design**: `Wireframes`, `Figma`, `Sketch`, `Invision`, `Illustrator`, `Photoshop`, `Premiere`, `Adobe XD`  
+- **Other Tech**: `Arduino`, `Autodesk`, `Blender`, `Unity`, `Processing`
  
 ---
 
@@ -49,8 +49,9 @@
 ### 🎨 Design & Code Showcases
 | Project | Description | Live |
 |--------|---------------------|------|
-| **Behance** | Graphic design and UI/UX portfolio. | [Behance](https://www.behance.net/albarubinat/) |
-| **Codepen** | Frontend animations experiments and microprojects. | [Codepen](https://codepen.io/rarubinat/collections) |
+| [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/albarubinat/)| Graphic design and UI/UX portfolio. | [Behance](https://www.behance.net/albarubinat/) |
+| [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rarubinat/collections)
+ | Frontend animations experiments and microprojects. | [Codepen](https://codepen.io/rarubinat/collections) |
 
 
 ---
