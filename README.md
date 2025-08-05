@@ -50,7 +50,7 @@
 | Project | Description | Live |
 |--------|---------------------|------|
 | **Behance** | Graphic design and UI/UX portfolio. | [Behance](https://www.behance.net/albarubinat/) |
-| **Codepen** | Frontend animations experiments and microprojects. | [Codepen](https://codepen.io/rarubinat) |
+| **Codepen** | Frontend animations experiments and microprojects. | [Codepen](https://codepen.io/rarubinat/public) |
 
 
 ---
