@@ -13,7 +13,7 @@
  - :speech_balloon: Certificate B2 in English.
  - :chart_with_upwards_trend: Interested in collaborating on modern web apps and digital product design
 
-### 🧰 Tech stack
+### Tech stack
 
  - **Frontend**: `JavaScript`, `Vue`, `React`, `Nextjs`, `Angular`, `Vite`, `TypeScript`, `Nodejs`, `Express`, `GSAP`
  - **Styling**: `CSS`, `SASS`, `Tailwind`, `Bootstrap`, `AOS`, `Angular Material`  
