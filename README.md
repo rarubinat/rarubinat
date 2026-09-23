@@ -47,6 +47,7 @@
 | **PWA** | Progressive Web App built with AngularJS. | [Live](https://rarubinat.github.io/pwapi/) |
 | ![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white) | Frontend animations experiments and microprojects (Processing, JQuery, GSAP) | [Live](https://codepen.io/rarubinat/collections/) |
 
+---
 
 ### :mailbox_with_mail: Let's connect!
 Looking forward to creating amazing things together! ✌🏻
