@@ -45,15 +45,8 @@
 | **Planeta B** | Interactive educational project built with HTML/CSS/JS. | [Live](https://rarubinat.github.io/planetab/) |
 | **Weather** | JavaScript – Check the weather using a meteorological API. | [Live](https://rarubinat.github.io/temperatureapi/) |
 | **PWA** | Progressive Web App built with AngularJS. | [Live](https://rarubinat.github.io/pwapi/) |
+| ![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white) | Frontend animations experiments and microprojects (Processing, JQuery, GSAP) | [Live](https://codepen.io/rarubinat/collections/) |
 
-### 🎨 Design & Code Showcases
-| Link | Description |
-|--------|----------------|
-| [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/albarubinat/)| Graphic design and UI/UX portfolio. |
-| [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rarubinat/collections/) | Frontend animations experiments and microprojects (Processing, JQuery, GSAP) |
-
-
----
 
 ### :mailbox_with_mail: Let's connect!
 Looking forward to creating amazing things together! ✌🏻
